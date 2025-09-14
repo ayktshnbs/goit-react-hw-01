@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1e0700a2-5183-4291-85cc-2065a036a683",
+    "type": "invoice",
+    "amount": "964.82",
+    "currency": "LRD"
+  },
+  {
+    "id": "a30f821b-4d25-4ff0-abdd-e340b3f0dd2b",
+    "type": "payment",
+    "amount": "686.50",
+    "currency": "WST"
+  },
+  {
+    "id": "44dca67a-6e5a-4f85-b9d2-3c47b8a1ab65",
+    "type": "withdrawal",
+    "amount": "322.32",
+    "currency": "UGX"
+  },
+  {
+    "id": "ea8ed3dc-2b68-4a53-905a-53ecb0adef33",
+    "type": "deposit",
+    "amount": "418.27",
+    "currency": "NZD"
+  },
+  {
+    "id": "ea76146a-0b00-4b80-bc02-a8c822176712",
+    "type": "payment",
+    "amount": "116.77",
+    "currency": "KES"
+  },
+  {
+    "id": "63ca02f9-d637-46b5-9237-f3b24425e029",
+    "type": "invoice",
+    "amount": "362.31",
+    "currency": "BGN"
+  }
+]
